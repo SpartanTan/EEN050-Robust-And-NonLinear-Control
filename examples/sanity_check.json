@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "h2_time": 1.414213562373095,
+  "h2_frequency": 1.4142135623730951,
+  "hinf_scalar_exact": 2.0,
+  "lyapunov_equation_residual": 7.021666937153402e-16,
+  "seir_mass_max_error": 8.881784197001252e-16,
+  "f16_source_shapes": {
+    "A": [
+      5,
+      5
+    ],
+    "B": [
+      5,
+      2
+    ],
+    "C": [
+      3,
+      5
+    ],
+    "D": [
+      3,
+      2
+    ]
+  },
+  "f16_direct_term_D32": 0.033,
+  "scope": "prerequisite and model-contract checks only; no MATLAB synthesis executed"
+}

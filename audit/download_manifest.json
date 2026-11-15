@@ -1,0 +1,52 @@
+[
+  {
+    "path": "mit/lecture12.pdf",
+    "title": "I/O stability",
+    "url": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/b62c79a22215312021afb6fbe0371db6_MIT6_241JS11_lec12.pdf",
+    "resolved_url": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/b62c79a22215312021afb6fbe0371db6_MIT6_241JS11_lec12.pdf",
+    "pages": 13,
+    "bytes": 396113,
+    "sha256": "99730d6d3b045fd3b64122fce96133a6163812856cdcf756fc24f461d1102315",
+    "status": "downloaded"
+  },
+  {
+    "path": "mit/lecture16.pdf",
+    "title": "Bode’s sensitivity integral",
+    "url": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/87eccdcf02460a8315ebac5860611cc2_MIT6_241JS11_lec16.pdf",
+    "resolved_url": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/87eccdcf02460a8315ebac5860611cc2_MIT6_241JS11_lec16.pdf",
+    "pages": 8,
+    "bytes": 358950,
+    "sha256": "2a7a6713acc04c5e3f6c14166b5d8677a217980fe83609d89c5603db01c21854",
+    "status": "downloaded"
+  },
+  {
+    "path": "mit/lecture17.pdf",
+    "title": "Robust stability",
+    "url": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/056c92694b953cb4645e4a4c20a363a8_MIT6_241JS11_lec17.pdf",
+    "resolved_url": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/056c92694b953cb4645e4a4c20a363a8_MIT6_241JS11_lec17.pdf",
+    "pages": 16,
+    "bytes": 394549,
+    "sha256": "32dee8f30715240f59a0eb395af973df314b960d266ec011860de6622b293829",
+    "status": "downloaded"
+  },
+  {
+    "path": "mit/lecture24.pdf",
+    "title": "H 2 optimization",
+    "url": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/168e36a48c6b4db8d89f6a37db214e40_MIT6_241JS11_lec24.pdf",
+    "resolved_url": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/168e36a48c6b4db8d89f6a37db214e40_MIT6_241JS11_lec24.pdf",
+    "pages": 28,
+    "bytes": 600804,
+    "sha256": "946e5c22f690b7462152bb623d97d174c1ec49d6fcc96ed845ba1091b36063cb",
+    "status": "downloaded"
+  },
+  {
+    "path": "mit/lecture25.pdf",
+    "title": "H ∞ optimization",
+    "url": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/c47a1dfa9ab139e6e90084036489c385_MIT6_241JS11_lec25.pdf",
+    "resolved_url": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/c47a1dfa9ab139e6e90084036489c385_MIT6_241JS11_lec25.pdf",
+    "pages": 13,
+    "bytes": 377453,
+    "sha256": "c41a9b7c45c6f52b97e97324e79079f32f18ccabd08ee3d8e39bd49cb313b614",
+    "status": "downloaded"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "path": "Assignments/Assignment4.pdf",
+    "bytes": 202875,
+    "sha256": "8e2385fb47a697f5fabe79fc9f030ebe5ad9083bd6d158f4db82fa685fe5ab3c",
+    "pages": 2
+  },
+  {
+    "path": "Assignments/Assignment5.pdf",
+    "bytes": 165634,
+    "sha256": "506ec8345cbfcd081e84c0c03a2f41b4ec77588a913f31c807726e5fe86c6147",
+    "pages": 2
+  },
+  {
+    "path": "Assignments/Assignment6.pdf",
+    "bytes": 188226,
+    "sha256": "ae77ead4d9eff07ff1d77709da2c3cbd3bc32d43711f6e70a23966d0c001bbab",
+    "pages": 3
+  },
+  {
+    "path": "Assignments/Assignments_1-3.pdf",
+    "bytes": 651784,
+    "sha256": "10285636992117d7373603aba416c9963ce4028047519453f3d6868b89b2fe63",
+    "pages": 5
+  },
+  {
+    "path": "Assignments/f16model.m",
+    "bytes": 1102,
+    "sha256": "0d51d717a2beaade2a332514f34fe2a672760695c7e73f59122ef3026f818d42"
+  },
+  {
+    "path": "Exercises/EEN050 exercise compendium.pdf",
+    "bytes": 3062813,
+    "sha256": "de6153ec038ddc709a4b91eea93ed0111e109c33b39d5d265c9777d83befd4aa",
+    "pages": 81
+  },
+  {
+    "path": "Exercises/Exercise_5_3.m",
+    "bytes": 1105,
+    "sha256": "3463b8683ecb3b40545da28b85ca8504f5e946b7310236374574859af385c7e1"
+  },
+  {
+    "path": "Exercises/Exercise_6_1.m",
+    "bytes": 1166,
+    "sha256": "e9e406db0073454dcedee2b7e9d25c21f2dcf8bfb94cd6c31e08be6bf6c32a19"
+  },
+  {
+    "path": "Extra/H2 norms.pdf",
+    "bytes": 310490,
+    "sha256": "8cd35ace3db062e809bea829220cd5ab9e98f02861337f3164b1e6db01c95d48",
+    "pages": 15
+  },
+  {
+    "path": "Extra/H2, Hinf, and Parseval theorem.docx",
+    "bytes": 12486,
+    "sha256": "e7f1d53ba35924acb1e31f3724283ac728a52491a134c7a6c659f9b66cc71522",
+    "media": []
+  },
+  {
+    "path": "Extra/On - Lp - Linfinity norms.pdf",
+    "bytes": 426570,
+    "sha256": "27a1359c478ad5fa47a8fec651826bdd772113c1e8c776d59541ccbd3930af39",
+    "pages": 1
+  },
+  {
+    "path": "quiz/Solution to the quizzes 2023.pdf",
+    "bytes": 61040,
+    "sha256": "505a7df5c7fe7749989fe5ad82425ad9e2197d9f09af1912105056d8ce65960f",
+    "pages": 3
+  },
+  {
+    "path": "Slides/EEN050_Lectures_Nonlinear copy.pdf",
+    "bytes": 3701750,
+    "sha256": "df083a4cc871139f37725fa61c8eec21cb0a228243e7c4a2ca9d386ed5ed8687",
+    "pages": 142
+  },
+  {
+    "path": "Slides/EEN050_Lectures_Robust_with_discussion_questions.pdf",
+    "bytes": 26269283,
+    "sha256": "276d2a3b91a3014d7fdeb4123a89c79fa0c86815238c8414e50b6f3c065c1b1a",
+    "pages": 230
+  }
+]

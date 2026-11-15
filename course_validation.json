@@ -1,0 +1,21 @@
+{
+  "checked_on": "2026-11-10",
+  "status": "passed",
+  "original_files_unchanged": 14,
+  "download_hashes_verified": 5,
+  "local_links_and_pdf_pages_verified": 137,
+  "weekly_tasks_with_specs": 22,
+  "exercise_index_entries": 48,
+  "self_assessment_questions": 12,
+  "sanity_lab_executed": "passed",
+  "not_executed": [
+    "MATLAB synthesis",
+    "YALMIP template",
+    "robustness certification",
+    "real vehicle experiments"
+  ],
+  "mathjax_formulas_checked": 19,
+  "final_local_links_and_pdf_pages_verified": 140,
+  "markdown_documents": 9,
+  "cross_course_links_verified": true
+}
